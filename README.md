@@ -2,4 +2,4 @@
 testing
 
 *coba
-tes conflic lagi
+mencoba tes conflic lagi
